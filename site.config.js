@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "내가 개발자?!",
+    title: "노룩코딩",
     description: "흔하디흔한 개발 블로그 그 이상 이하도 아닌.",
   },
 
